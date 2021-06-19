@@ -1,5 +1,5 @@
 # React-Todo-List
-URL : https://rahul442000.github.io/
+URL : https://rahul442000.github.io/React-Todo-List/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
