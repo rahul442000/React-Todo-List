@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rahul442000.github.io/csb-vgm6d/static/css/main.26f9e6b0.chunk.css",
+    "main.js": "https://rahul442000.github.io/csb-vgm6d/static/js/main.45ad7adc.chunk.js",
+    "main.js.map": "https://rahul442000.github.io/csb-vgm6d/static/js/main.45ad7adc.chunk.js.map",
+    "runtime-main.js": "https://rahul442000.github.io/csb-vgm6d/static/js/runtime-main.ad34699f.js",
+    "runtime-main.js.map": "https://rahul442000.github.io/csb-vgm6d/static/js/runtime-main.ad34699f.js.map",
+    "static/js/2.d3721b24.chunk.js": "https://rahul442000.github.io/csb-vgm6d/static/js/2.d3721b24.chunk.js",
+    "static/js/2.d3721b24.chunk.js.map": "https://rahul442000.github.io/csb-vgm6d/static/js/2.d3721b24.chunk.js.map",
+    "index.html": "https://rahul442000.github.io/csb-vgm6d/index.html",
+    "static/css/main.26f9e6b0.chunk.css.map": "https://rahul442000.github.io/csb-vgm6d/static/css/main.26f9e6b0.chunk.css.map",
+    "static/js/2.d3721b24.chunk.js.LICENSE.txt": "https://rahul442000.github.io/csb-vgm6d/static/js/2.d3721b24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad34699f.js",
+    "static/js/2.d3721b24.chunk.js",
+    "static/css/main.26f9e6b0.chunk.css",
+    "static/js/main.45ad7adc.chunk.js"
+  ]
+}
